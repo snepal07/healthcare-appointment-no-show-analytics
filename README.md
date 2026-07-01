@@ -81,6 +81,10 @@ The goal of this project is to:
 - Git & GitHub
 - Problem Solving
 ---
+## 📸 Dashboard Preview
+
+![Executive Dashboard](executive_dashboard.png)
+---
 ## 📈 Interactive Dashboard
 
 🔗 **Tableau Public Dashboard**
