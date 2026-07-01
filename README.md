@@ -2,6 +2,8 @@
 
 > End-to-end healthcare analytics project using **SQL, Python, Pandas, Tableau Public, Git, GitHub, and Visual Studio Code** to analyze patient appointment behavior and build an executive dashboard for operational decision-making.
 ---
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-Pandas-yellow?style=for-the-badge) ![Tableau](https://img.shields.io/badge/Tableau-Public-orange?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge)
+---
 ## 📌 Project Overview
 
 Healthcare providers lose valuable time and revenue because of missed appointments. This project analyzes **71,959 patient appointments** to uncover the factors driving appointment no-shows and provides an interactive Tableau dashboard that helps healthcare administrators improve scheduling efficiency and patient engagement.
