@@ -81,21 +81,17 @@ The goal of this project is to:
 - Git & GitHub
 - Problem Solving
 ---
-## 📸 Dashboard Preview
+## 📈 Interactive Dashboard
+
 <p align="center">
   <img src="executive_dashboard.png" width="1000">
 </p>
 ---
-## 📈 Interactive Dashboard
-
 🔗 **Tableau Public Dashboard**
 
 **https://public.tableau.com/app/profile/saloni.nepal/viz/HealthcareAppointmentNo-ShowAnalyticsDashboard/ExecutiveDashboard?publish=yes**
 ---
 ## 👩‍💻 Author
-
 **Saloni Nepal**
-
 MBA in Business Analytics | Binghamton University
-
 Aspiring Business Analyst | SQL | Python | Tableau | Power BI | Excel
