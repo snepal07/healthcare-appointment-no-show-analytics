@@ -88,10 +88,12 @@ The goal of this project is to:
 <p align="center">
   <img src="executive_dashboard.png" width="1000">
 </p>
----
-🔗 **Tableau Public Dashboard**
 
-**https://public.tableau.com/app/profile/saloni.nepal/viz/HealthcareAppointmentNo-ShowAnalyticsDashboard/ExecutiveDashboard?publish=yes**
+---
+
+## 📊 Live Dashboard
+
+👉 **[View Interactive Dashboard](https://public.tableau.com/app/profile/saloni.nepal/viz/HealthcareAppointmentNo-ShowAnalyticsDashboard/ExecutiveDashboard?publish=yes)**
 ---
 ## 👩‍💻 Author
 **Saloni Nepal**
