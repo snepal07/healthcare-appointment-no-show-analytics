@@ -85,7 +85,7 @@ The goal of this project is to:
 
 🔗 **Tableau Public Dashboard**
 
-**https://public.tableau.com/app/profile/saloni.nepal/viz/HealthcareFinalDashboard/ExecutiveDashboard?publish=yes**
+**https://public.tableau.com/app/profile/saloni.nepal/viz/HealthcareAppointmentNo-ShowAnalyticsDashboard/ExecutiveDashboard?publish=yes**
 ---
 ## 👩‍💻 Author
 
