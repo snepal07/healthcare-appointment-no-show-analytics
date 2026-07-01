@@ -82,8 +82,9 @@ The goal of this project is to:
 - Problem Solving
 ---
 ## 📸 Dashboard Preview
-
-![Executive Dashboard](executive_dashboard.png)
+<p align="center">
+  <img src="executive_dashboard.png" width="1000">
+</p>
 ---
 ## 📈 Interactive Dashboard
 
